@@ -50,11 +50,15 @@ _________________________________________________________________
 
 The model consistently achieves **~91-92% accuracy** on the test set within 10 epochs.
 
+### Sample Predictions
+
+Below are sample predictions from the test set. Green labels indicate a correct prediction, while red labels (if any) indicate a mismatch between the predicted and true category.
+![Sample Predictions](assets/sample_predictions.png)
 ##  How to Use
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ibrahim-mosaad/fashion-mnist-cnn.git
+git clone https://github.com/ibrahim-mosaad/cnn-fashion_mnist-classification.git
 
 ```
 
